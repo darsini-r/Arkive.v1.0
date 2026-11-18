@@ -72,3 +72,12 @@ These are the app screens in flow order to show how Arkive works:
 
 ### Screen 8
 <img src="./8.png" alt="Screen 8" width="320" />
+
+## Contributors
+
+Arkive was developed collaboratively. The contributors are:
+
+- [JesanNJ](https://github.com/JesanNJ)
+- [Vignesh-reddy-dev](https://github.com/Vignesh-reddy-dev)
+- [darsini-r](https://github.com/darsini-r)
+- [SaniaShanmugan](https://github.com/SaniaShanmugan)
